@@ -1,0 +1,8 @@
+.DS_Store
+
+$PROJDIR
+obj
+Temp
+
+$PROJDIR/Library
+cache

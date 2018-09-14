@@ -8,3 +8,5 @@ Try to collect all yellow cubes!
 Steps to play:
 1. Navigate to "Builds" folder
 2. Double click on "BallRoller (Mac)"
+
+![alt text](screenshot.png)
